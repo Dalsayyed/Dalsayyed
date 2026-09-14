@@ -1,4 +1,4 @@
-# Hi there, I'm Deemah ⚙️
+# Hi there, I'm Deemah Al-Sayyed ⚙️
 
 <p align="left">
   <img src="https://shields.io" alt="Degree"/>
