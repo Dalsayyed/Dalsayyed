@@ -1,4 +1,4 @@
-# Hi there, I'm [Deemah] 🤖⚡⚙️
+# Hi there, I'm Deemah 🤖⚡⚙️
 
 <p align="left">
   <img src="https://shields.io" alt="Degree"/>
@@ -8,8 +8,8 @@
 ---
 
 ### 🏫 Academic Background
-- 🎓 **University:** [University of Jordan]
-- 📅 **Timeline:** Class of [2022 - 2027]
+- 🎓 **University:** University of Jordan
+- 📅 **Timeline:** Class of 2027
 - 🏢 **Department:** Department of Mechatronics Engineering
 - 🔬 **Core Research Interests:** System Dynamics, Control Theory, Multibody Simulation, Robotics, and Embedded Automation.
 
